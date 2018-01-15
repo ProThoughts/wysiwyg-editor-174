@@ -27,7 +27,7 @@ before_script:
   # PHPUnit - manually download old version so that it works on PHP 7
   - curl -L -o phpunit.phar https://phar.phpunit.de/phpunit-4.8.35.phar
   # Basic config required for PHPUnit
-  - cp qa-tests/phpunit-qa-config.php qa-config.php
+  # - cp qa-tests/phpunit-qa-config.php qa-config.php
 
 script:
   # PHP_CodeSniffer

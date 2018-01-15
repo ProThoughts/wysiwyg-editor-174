@@ -1,7 +1,7 @@
 # wysiwyg-editor-174
 CKEditor v4.6.2 for Q2A v1.7.4
 
-[![Build Status](https://travis-ci.org/prothoughts/wysiwyg-editor-174.png?branch=master)](https://travis-ci.org/prothoughts/wysiwyg-editor-174/branches)
+[![Build Status](https://travis-ci.org/ProThoughts/wysiwyg-editor-174.svg?branch=master)](https://travis-ci.org/ProThoughts/wysiwyg-editor-174/branches)
 
 Installation Guide
 ------------------
